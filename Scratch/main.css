@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(211, 145, 145);
+    color: rgb(128, 1, 1);
+    font-family: 'Kenia', cursive;
+    font-family: 'Rubik Microbe', cursive;
+    font-family: 'Shadows Into Light', cursive;
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+}
+h2{
+    text-align: center;
+    font-weight: bold;
+}
+
+.div1 {
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+}
+.div2 {
+    color: rgb(255, 255, 255);
+}
+.food {
+    font-size: 40px;
+}
